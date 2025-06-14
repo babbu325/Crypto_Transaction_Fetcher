@@ -1,0 +1,11 @@
+cat <<EOF > .gitignore
+
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+.idea/
+.DS_Store
+
+EOF
