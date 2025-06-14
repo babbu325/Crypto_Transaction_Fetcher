@@ -33,4 +33,4 @@
 
 # TODOs
 - Implement logger
-- Pagination for large addtess
+- Pagination for large address
